@@ -1,0 +1,16 @@
+.idea/
+.vscode/
+node_modules/
+build/
+temp/
+.env
+comentarios.md
+coverage
+ormconfig.json
+.env.test
+dist
+
+tmp/*
+!tmp/.gitkeep
+
+
